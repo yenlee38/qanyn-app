@@ -1,0 +1,10 @@
+.login-form{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.btn-login{
+    background-color: aquamarine;
+}
